@@ -16,7 +16,7 @@ Marc would like open up his browser and head over to the Boardly page, log in us
 ### Requirements
 User landing page should be simple and straightforward design with as much information regarding the produdct as possible and seperate sections for the following:  
 
-#####P hilosophy of product
+##### Philosophy of product
 
 ##### Why this product fits in today's modern workplace.
 
